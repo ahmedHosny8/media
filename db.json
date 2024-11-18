@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Janet Reinger",
+      "id": 5
+    },
+    {
+      "name": "Ruby Grimes I",
+      "id": 6
+    },
+    {
+      "name": "Lowell Heaney",
+      "id": 7
+    },
+    {
+      "name": "Dr. Wilson Fadel",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Luxurious Wooden Computer",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Plastic Towels",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Metal Bacon",
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "title": "Small Frozen Shirt",
+      "id": 18
+    },
+    {
+      "userId": 8,
+      "title": "Fantastic Metal Pants",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/xZzJuT/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/tR2KC/150/150",
+      "id": 4
+    },
+    {
+      "albumId": 17,
+      "url": "https://picsum.photos/seed/G1VORo5gDp/150/150",
+      "id": 5
+    },
+    {
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/T9Bo9wwwe/150/150",
+      "id": 6
+    },
+    {
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/0TToyR/150/150",
+      "id": 8
+    },
+    {
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/3zuzCiW/150/150",
+      "id": 9
+    },
+    {
+      "albumId": 19,
+      "url": "https://picsum.photos/seed/XP8QIayr/150/150",
+      "id": 11
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150?lock=2398662084788224",
+      "id": 12
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150?lock=2853835582210048",
+      "id": 13
+    }
+  ]
+}
